@@ -1,0 +1,42 @@
+1. project ID probelm. what is the problem. what did you do. what did you find. some thoughts?
+YQ-6223--01--25--2019_Qu_Ying_mRNA_Human:
+First run (nodes 11,12,13,14): 
+rsem_cal errors: 
+[E::hts_open_format] Failed to open file 231-sox11_9-1_S7_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "231-sox11_9-1_S7_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file 231-sox11_9-2_S8_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "231-sox11_9-2_S8_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file 578t-2_S2_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "578t-2_S2_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file 231-2_S6_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "231-2_S6_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+
+Second run (nodes:22,23,24)
+rsem_cal errors:
+[E::hts_open_format] Failed to open file 231-sox11_9-2_S8_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "231-sox11_9-2_S8_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+
+
+
+AY-6348--02--05--2019
+nodes:22,23,24,27
+rsem_cal errors:
+[E::hts_open_format] Failed to open file MI3_1_S34_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "MI3_1_S34_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file TOX_1_S25_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "TOX_1_S25_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file TOX_2_S26_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "TOX_2_S26_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file TOX_3_S27_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "TOX_3_S27_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
+
+[E::hts_open_format] Failed to open file IRES_3_S24_R1_001Aligned.sortedByCoord.out.bam
+samtools index: failed to open "IRES_3_S24_R1_001Aligned.sortedByCoord.out.bam": No such file or directory
